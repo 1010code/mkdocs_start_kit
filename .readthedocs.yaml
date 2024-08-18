@@ -20,9 +20,7 @@ mkdocs:
   configuration: mkdocs.yml
 
 # Optionally build your docs in additional formats such as PDF and ePub
-formats:
-  - epub
-  - pdf
+formats all
 
 # Optional but recommended, declare the Python requirements required
 # to build your documentation
