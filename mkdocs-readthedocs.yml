@@ -4,7 +4,7 @@ site_url: https://comwes.github.io/mkpdfs-mkdocs-plugin/
 extra_css:
   - 'stylesheets/extra.css'
 theme:
-  name: material
+  name: readthedocs
   language: 'en'
   font:
     text: 'Roboto'
@@ -32,9 +32,3 @@ markdown_extensions:
       permalink: false
 plugins:
   - search
-  - mkpdfs:
-      design: design/report.css
-      author: Tdai Yi Lin
-      company: "10程式中"
-      toc_title: Table of contents
-      output_path: pdf/documentation.pdf

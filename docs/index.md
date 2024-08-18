@@ -61,3 +61,8 @@ For detailed instructions see the [getting started guide][3].
   [weasyprint-linux]: https://weasyprint.readthedocs.io/en/latest/install.html#linux
   [weasyprint-macos]: https://weasyprint.readthedocs.io/en/latest/install.html#macos
   [weasyprint-windows]: https://weasyprint.readthedocs.io/en/latest/install.html#windows
+
+
+## Website
+- [gh page](https://1010code.github.io/mkdocs_start_kit/)
+- [readthedocs](https://mkdocs-start-kit.readthedocs.io/zh-tw/latest/)
